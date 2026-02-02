@@ -1,0 +1,16 @@
+# build outputs
+*.o
+*.exe
+raycaster
+raycaster.exe
+
+# saved map
+map.bin
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# temp copies
+* - Copy.*
